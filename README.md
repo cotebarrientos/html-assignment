@@ -2,7 +2,7 @@
 
 ## Brainnest: Frontend Development Industry Training
 
-This repository contains 4 assignments about HTML for the **Frontend Development industry training program** taught by [**Brainnest**](https://www.brainnest.consulting/).
+This repository contains 1 assignment about HTML for the **Frontend Development industry training program** taught by [**Brainnest**](https://www.brainnest.consulting/).
 
 **You can visit my portfolio website by clicking [here](https://cotebarrientos.github.io/html-assignment/).**
 
